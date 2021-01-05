@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NextSoft.GeneratorData.Test</id>
+    <version>1.0.0-alpha</version>
+    <authors>Avi Heller</authors>
+    <owners>Avi Heller</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>some description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\generateDataFile.dll" target="lib\netstandard2.0\generateDataFile.dll" />
+  </files>
+</package>

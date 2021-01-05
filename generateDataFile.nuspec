@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>NextSoft.GeneratorData.Test</id>
+    <version>1.0.0-alpha</version>
+    <title>$title$</title>
+    <authors>Avi Heller</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/aviheller7/generateData.git/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>
+		Objects Generator:
+		The Generator takes a name, attributes and number(n) as parameters
+		And returns n several times random-define objects.
+		supported attributes: ID, First Name, Last Name, and Gender.		
+		---------------------------------------------------------
+		for example:
+		
+		input:
+			generate Person ID, First Name, Last Name, Gender 3
+		
+		output:
+		
+		(PERSONS)
+			(PERSON)
+				(ID)2034866546(/ID)
+				(GENDER)MALE(/GENDER)
+				(FIRSTNAME)ANTOINE(/FIRSTNAME)
+				(LASTNAME)COOKIE(/LASTNAME)
+				(ADRESS)SALT LAKE CITY	UT	ONE SOUTH MAIN STREET(/ADRESS)
+			(/PERSON)
+			(PERSON)
+				(ID)-1204047557(/ID)
+				(GENDER)WOMAN(/GENDER)
+				(FIRSTNAME)ALIANNA(/FIRSTNAME)
+				(LASTNAME)KEY(/LASTNAME)
+				(ADRESS)ZAPATA	TX	703 HIDALGO BLVD(/ADRESS)
+			(/PERSON)
+		(/PERSONS)
+		
+		---------------------------------------------------------
+	</description>
+	<icon>Icon.png</icon>
+	 <language>en-US</language>
+	<repository type="git" url="https://github.com/aviheller7/generateData.git" commit="" />
+    <releaseNotes>Attention: pre-release\test version.</releaseNotes>
+    <copyright>© NextSoft Coperation. All rights reserved.</copyright>
+    <tags>Data Generator,generate,NextSoft</tags>
+	 <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+	<references>
+		 <group targetFramework=".NETStandard2.0">
+			<reference file="generateDataFile.dll" />
+		</group>
+	</references>
+  </metadata>
+  <files>
+	<file src="data\*.xml" target="data" />
+	<file src="Images\**\*.jpeg" target="images" />
+    <file src="bin\Debug\netstandard2.0*.dll" target="lib\netstandard2.0\" />
+    <file src="bin\Debug\netstandard2.0*.pdb" target="lib\netstandard2.0\" />
+	<file src="C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\generateDataFile.dll" target="lib\netstandard2.0\generateDataFile.dll" />
+	<file src="C:\Users\user\Source\Repos\generateDataFile\generateDataFile\Icon.png" target="Icon.png" />
+  </files>
+  
+</package>

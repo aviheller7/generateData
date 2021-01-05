@@ -1,0 +1,13 @@
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\data\adresses.xml
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\data\lastNames.xml
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\data\menNames.xml
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\data\womenNames.xml
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\generateDataFile.deps.json
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\generateDataFile.dll
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\bin\Release\netstandard2.0\generateDataFile.pdb
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\obj\Release\netstandard2.0\generateDataFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\obj\Release\netstandard2.0\generateDataFile.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\obj\Release\netstandard2.0\generateDataFile.AssemblyInfo.cs
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\obj\Release\netstandard2.0\generateDataFile.dll
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\obj\Release\netstandard2.0\generateDataFile.pdb
+C:\Users\user\Source\Repos\generateDataFile\generateDataFile\obj\Release\netstandard2.0\generateDataFile.csprojAssemblyReference.cache
