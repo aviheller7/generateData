@@ -43,7 +43,7 @@
 	</description>
 	<icon>Icon.png</icon>
 	 <language>en-US</language>
-	<repository type="git" url="https://github.com/aviheller7/generateData.git" commit="" />
+	<repository type="git" url="https://github.com/aviheller7/generateData.git" commit="release commit" />
     <releaseNotes>Attention: pre-release\test version.</releaseNotes>
     <copyright>© NextSoft Coperation. All rights reserved.</copyright>
     <tags>Data Generator,generate,NextSoft</tags>
